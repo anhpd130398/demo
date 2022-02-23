@@ -25,6 +25,7 @@
         <javaClientGenerator type="XMLMAPPER" targetPackage="com.mapper.mappers"  targetProject="C:\Users\ADMIN\IdeaProjects\demo/src/main/java"/>
 
         <table schema="mybatis" tableName="user" domainObjectName="User"/>
+        <table schema="mybatis" tableName="store" domainObjectName="Store"/>
 
 
     </context>
